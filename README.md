@@ -26,14 +26,14 @@ who is passionate about developing ideas, writing scripts, and creating engaging
   
 ## My Projects
 
-### 🎬 [Campaigns](Campaigns/)
+### [🎬 Campaigns](campaigns.html)
 
 A collection of creative advertising campaigns and concepts I have worked on.
 
-### ✍️ [Scripts](Scripts/)
+### [✍️ Scripts](scripts.html)
 
 Creative scripts written for social media videos and advertising content.
 
-### 💡 [Creative_Ideas](Creative_Ideas/)
+### [💡 Creative_Ideas](creative-ideas.html)
 
 Creative concepts and ideas developed for different brands and campaigns.
